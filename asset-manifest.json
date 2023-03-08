@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/websalem/Frontendmentor-testimonials-grid/static/css/main.d42e2ef1.css",
+    "main.js": "/websalem/Frontendmentor-testimonials-grid/static/js/main.ddf81fbd.js",
+    "static/js/787.ab5bc390.chunk.js": "/websalem/Frontendmentor-testimonials-grid/static/js/787.ab5bc390.chunk.js",
+    "index.html": "/websalem/Frontendmentor-testimonials-grid/index.html",
+    "static/media/bg-pattern-quotation.svg": "/websalem/Frontendmentor-testimonials-grid/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
+    "main.d42e2ef1.css.map": "/websalem/Frontendmentor-testimonials-grid/static/css/main.d42e2ef1.css.map",
+    "main.ddf81fbd.js.map": "/websalem/Frontendmentor-testimonials-grid/static/js/main.ddf81fbd.js.map",
+    "787.ab5bc390.chunk.js.map": "/websalem/Frontendmentor-testimonials-grid/static/js/787.ab5bc390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d42e2ef1.css",
+    "static/js/main.ddf81fbd.js"
+  ]
+}
